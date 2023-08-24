@@ -128,3 +128,6 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+chatbot-server-py/Bert_Test_10Epoch
+__pycache__

@@ -1,0 +1,35 @@
+
+
+p {
+    justify-content: left;
+    margin: 0.5rem;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    display: flex;
+    flex-direction: row;
+    word-wrap: break-word;
+    align-items: center;
+    padding: 1rem;
+}
+
+Image {
+    align-items: center;
+}
+
+.flex {
+    display: flex;
+    flex-direction: row;
+}
+
+.overflow {
+    overflow: auto;
+}
+
+.gray {
+    background-color: rgb(75, 75, 75);
+}
